@@ -1,3 +1,7 @@
+#Fake Weather App
+<img src ="https://github.com/douglasalipio/fake_weather/blob/main/fake_weather.gif"  width="360"/>&nbsp;&nbsp;
+<img src ="https://github.com/douglasalipio/fake_weather/blob/main/Screenshot_20221127_144247.png" width="360" />&nbsp;&nbsp;
+
 ## Relevant feature developed
 
 - [x] Display weather information
