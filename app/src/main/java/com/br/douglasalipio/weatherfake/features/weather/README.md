@@ -1,7 +1,8 @@
 
 
 ## Relevant feature developed
-
+- [x] Handle Error state
+- [x] Handle Loading state
 - [x] Display weather information
 - [x] Load weather information data
 - [x] Load weather icon
@@ -14,6 +15,10 @@ domain, presentation, and data.
 * Presentation - MVVM pattern to communicate with User Interface
 * Domain - Usecase pattern to handle business logic
 * Data - Repository pattern to handle remote data
+
+## Testing
+
+Test suite cover some unit tests for ViewModel, UseCase and Repository. 
 
 ## Relevant 3rd party libraries
 
