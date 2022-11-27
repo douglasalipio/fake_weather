@@ -1,4 +1,4 @@
-#Fake Weather App
+## Fake Weather App
 
 <img src ="https://github.com/douglasalipio/fake_weather/blob/main/fake_weather.gif"  width="360"/>&nbsp;&nbsp;
 <img src ="https://github.com/douglasalipio/fake_weather/blob/main/Screenshot_20221127_144247.png" width="360" />&nbsp;&nbsp;
@@ -6,8 +6,8 @@
 ## Relevant feature developed
 
 - [x] Display weather information
-- [x] Load weather information data
-- [x] Load weather icon
+- [x] Load weather information data from remote API
+- [x] Load weather icon from URL
 
 ## Project architecture
 
