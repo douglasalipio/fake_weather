@@ -6,8 +6,8 @@
 ## Relevant feature developed
 
 - [x] Display weather information
-- [x] Load weather information data from remote API
-- [x] Load weather icon from URL
+- [x] Load weather information data from remote API (https://cdn.faire.com/static/mobile-take-home/{location_id}.json)
+- [x] Load weather icon from URL (https://cdn.faire.com/static/mobile-take-home/icons/{weather_state_abbr}.png)
 
 ## Project architecture
 
