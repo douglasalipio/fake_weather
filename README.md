@@ -15,7 +15,8 @@ domain, presentation, and data.
 
 
 ## Testing
-<img src ="https://github.com/douglasalipio/fake_weather/blob/main/coverage_image.png"  width="360"/>&nbsp;&nbsp;
+<img src ="https://github.com/douglasalipio/fake_weather/blob/main/coverage_image.png"/>
+
 Test suite cover some unit tests for ViewModel, UseCase and Repository. 
 
 ## Relevant 3rd party libraries
