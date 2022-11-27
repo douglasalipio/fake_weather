@@ -13,6 +13,11 @@ domain, presentation, and data.
 * Domain - Usecase pattern to handle business logic
 * Data - Repository pattern to handle remote data
 
+
+## Testing
+<img src ="https://github.com/douglasalipio/fake_weather/blob/main/coverage_image.png"  width="360"/>&nbsp;&nbsp;
+Test suite cover some unit tests for ViewModel, UseCase and Repository. 
+
 ## Relevant 3rd party libraries
 
 * Livedata
